@@ -1,4 +1,4 @@
-= TI Reference Design TIDEP0084: Sub-1 GHz Sensor to Cloud Industrial IoT Gateway Reference Design for Linux Systems
+= Choosing a hardware toolchain for a cloud connected sensor (Linux host based)
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -7,7 +7,7 @@
 :source-highlighter: highlightjs
 :sectnums:
 
-:r0: https://github.com/vittali/vittali.ch-6-TIR-0084[compagnion repo]
+:r0: https://github.com/vittali/TiPs_6[compagnion repo]
 :r1: https://cloud.ibm.com[IBM Bluemix]
 :r2: http://www.ti.com/tool/TIDEP0084?jktype=design[Sub-1 GHz Sensor to Cloud Industrial IoT Gateway Reference Design for Linux Systems]
 :r3: http://www.ti.com/lit/ug/tiduci9c/tiduci9c.pdf[TI Designs:TIDEP0084 Sub-1 GHz Sensor-to-Cloud Industrial Internet-of-Things (IoT) Gateway Reference Design]
